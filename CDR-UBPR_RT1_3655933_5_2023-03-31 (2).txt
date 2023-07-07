@@ -1,0 +1,144 @@
+FDIC Certificate # 58588			FRB District/ID_RSSD 12 / 3655933			PARTNERS BANK OF CALIFORNIA			 MISSION VIEJO, CA			Table of Contents
+OCC Charter #  0			County:  ORANGE			 March 31, 2023 Uniform Bank Performance Report						07/06/2023 04:47:33 PM
+Public Report
+
+Information
+Introduction
+This uniform bank performance report covers the operations of a bank and that of a
+comparable group of peer banks.It is provided as a bank management tool by the Federal
+Financial Institutions Examination Council.Detailed information
+concerning the content of this report is provided in the Users Guide for the Uniform
+Bank Performance Report found online at www.ffiec.gov.
+This report has been produced for the use of the federal regulators of financial
+institutions in carrying out their supervisory responsibilities.All information contained herein
+was obtained from sources deemed reliable however no guarantee is given as to
+the accuracy of the data.The information contained in this report are not to be construed
+as a rating or other evaluation of a financial institution by a federal banking regulator.
+The quarterly report of condition and income is the principal source of information.
+for this report.Please refer to that document for additional financial information and.
+an explanation of the accounting standards that underlie data shown herein..
+For questions regarding content of reports contact:
+1-888-237-3111 or email: cdr.help@cdr.ffiec.gov.
+
+Financial Institution Address:
+PARTNERS BANK OF CALIFORNIA                                                                                             
+27201 PUERTA REAL, SUITE 160            
+MISSION VIEJO            CA
+92691    
+
+The Current Federal Regulator is: Federal Deposit Insurance Corporation
+
+The bank was established on: 11/16/2007
+
+The current peer group for this bank is: 5
+Insured commercial banks having assets between $300 million and $1 billion
+
+FootNotes:
+Financial data in the Uniform Bank Performance Report may have been adjusted
+as a result of information shown in footnotes below.
+Please refer to the Uniform Bank Performance Report Users Guide online for details.
+
+
+Table of Contents
+Section
+Cover Page
+My UBPR
+Summary Ratios--Page 1
+Income Statement $--Page 2
+QTR Income Statement--Page 2A
+Noninterest Income and Expenses--Page 3
+Asset Yields and Funding Costs--Page 3A
+Balance Sheet $--Page 4
+Off Balance Sheet Items--Page 5
+Derivative Instruments--Page 5A
+Derivative Analysis--Page 5B
+Balance Sheet Percentage Composition--Page 6
+Analysis of Loan Allowance and Loan Mix--Page 7
+Analysis of Loan Allowance and Loan Mix--Page 7A
+Analysis of Concentrations of Credit--Page 7B
+Analysis of Past Due, Nonaccrual & Restructured--Page 8
+Analysis of Past Due, Nonaccrual & Restructured--Page 8A
+Interest Rate Risk Analysis as a Percent of Assets--Page 9
+Liquidity & Funding--Page 10
+Liquidity & Investment Portfolio--Page 10A
+Capital Analysis--Page 11
+Capital Analysis--Page 11A
+Capital Analysis--Page 11B
+Capital Analysis--Page 11C
+One Quarter Annualized Income Analysis--Page 12
+Securitization & Asset Sale Activities--Page 13
+Securitization & Asset Sale Activities--Page 13A
+Securitization & Asset Sale Activities--Page 13B
+Fiduciary & Related Services--Page 1
+Fiduciary & Related Services--Page 1A
+
+Bank Holding Company Information:
+FRB District / ID_RSSD  12 / 3655933
+PARTNERS BANK OF CALIFORNIA
+MISSION VIEJO,  CA
+
+
+
+FDIC Certificate # 58588			FRB District/ID_RSSD 12 / 3655933			PARTNERS BANK OF CALIFORNIA			 MISSION VIEJO, CA			Summary Ratios
+OCC Charter #  0			County:  ORANGE			Summary Ratios--Page 1 						07/06/2023 04:47:33 PM
+Public Report
+
+		03/31/2023			03/31/2022			12/31/2022			12/31/2021			12/31/2020
+Earnings and Profitability	BANK	PG 5	PCT	BANK	PG 5	PCT	BANK	PG 5	PCT	BANK	PG 5	PCT	BANK	PG 5	PCT
+  Percent of Average Assets:																
+    Interest Income (TE)	4.98	4.36	80	3.78	3.24	81	4.29	3.68	83	3.99	3.52	78	4.54	3.94	87
+     - Interest Expense	0.93	0.95	51	0.20	0.23	45	0.29	0.38	39	0.28	0.30	47	0.46	0.56	38
+      Net Interest Income (TE)	4.05	3.40	83	3.58	3.00	85	4.00	3.30	89	3.71	3.21	82	4.08	3.36	92
+     + Noninterest Income	0.08	0.51	2	0.09	0.58	3	0.10	0.57	3	0.23	0.70	11	0.07	0.74	2
+     - Noninterest Expense	2.85	2.44	75	2.67	2.32	73	2.61	2.40	66	2.35	2.42	47	2.42	2.60	40
+      Pre-Provision Net Revenue (TE)	1.28	1.50	38	1.00	1.28	30	1.49	1.49	52	1.59	1.53	55	1.73	1.56	65
+     - Provision: Loan & Lease Losses	0.00	0.05	41	0.00	0.04	46	0.18	0.07	85	0.00	0.07	26	0.87	0.21	97
+     - Provision: Credit Loss Oth Assets	0.00	0.00	86	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+      Pretax Operating Income (TE)	1.28	1.43	43	1.00	1.24	34	1.31	1.42	42	1.59	1.45	61	0.87	1.33	18
+     + Realized Gains/Losses Sec	0.00	0.00	91	0.00	0.00	88	0.00	-0.01	86	0.00	0.01	59	0.00	0.02	44
+     + Unrealized Gains / Losses Equity Sec	0.00	0.00	84	0.00	0.00	95	0.00	0.00	94	0.00	0.00	87	0.00	0.00	90
+    Pretax Net Operating Income (TE)	1.28	1.42	43	1.00	1.24	34	1.31	1.41	43	1.59	1.47	59	0.87	1.37	16
+      Net Operating Income	0.89	1.19	31	0.71	1.03	24	0.92	1.18	28	1.12	1.23	42	0.60	1.15	11
+    Net Inc Attrib to Min Ints	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99	0.00	0.00	98	0.00	0.00	99
+    Net Income Adjusted Sub S	0.89	1.10	35	0.71	0.96	27	0.92	1.09	32	1.12	1.14	47	0.60	1.06	12
+      Net Income	0.89	1.19	31	0.71	1.03	24	0.92	1.18	28	1.12	1.23	42	0.60	1.14	11
+																
+  Margin Analysis:																
+  Avg Earning Assets to Avg Assets	99.29	96.17	89	97.69	95.14	86	98.42	95.73	87	98.27	94.90	91	98.53	94.65	94
+  Avg Int-Bearing Funds to Avg Assets	41.35	68.52	1	40.28	67.73	1	38.67	67.89	1	46.43	68.17	3	50.24	71.26	3
+  Int Inc (TE) to Avg Earn Assets	5.02	4.54	75	3.87	3.42	76	4.36	3.86	77	4.06	3.73	71	4.61	4.17	77
+  Int Expense to Avg Earn Assets	0.94	0.99	48	0.21	0.25	43	0.30	0.39	37	0.28	0.32	45	0.47	0.59	35
+  Net Int Inc-TE to Avg Earn Assets	4.08	3.54	78	3.66	3.16	80	4.06	3.45	84	3.78	3.39	76	4.14	3.56	85
+																
+  Loan & Lease Analysis:																
+  Net Loss to Average Total LN&LS	0.00	0.02	49	0.00	0.01	58	-0.01	0.02	26	0.02	0.03	62	-0.03	0.08	8
+  Earnings Coverage of Net Losses (X)	N/A	190.30	N/A	N/A	190.00	N/A	N/A	226.97	N/A	84.20	167.88	57	N/A	82.90	N/A
+  LN&LS Allowance to LN&LS Not HFS	1.92	1.33	90	2.20	1.42	91	1.90	1.31	89	2.16	1.42	90	2.04	1.38	89
+  LN&LS Allowance to Net Losses (X)	N/A	108.40	N/A	N/A	122.04	N/A	N/A	122.38	N/A	89.37	89.69	72	N/A	47.74	N/A
+  LN&LS Allowance to Nonaccrual LN&LS (X)	41.17	13.41	86	28.78	11.20	85	40.17	13.54	86	26.74	9.70	86	12.98	6.27	83
+  30-89 Days Past Due	0.00	0.34	9	0.18	0.33	45	0.00	0.31	8	0.22	0.28	54	0.00	0.38	8
+  Total LN&LS-90+ Days PD & Nonaccrual	0.05	0.34	24	0.08	0.43	27	0.05	0.34	25	0.08	0.46	26	0.16	0.63	25
+  Non-Curr Lns+OREO to Lns+OREO	0.05	0.39	21	0.08	0.51	23	0.05	0.39	22	0.08	0.54	21	0.16	0.76	20
+																
+  Liquidity																
+  Net Non Core Fund Dep New $250M	9.67	3.57	69	-7.40	-7.73	43	4.15	2.59	52	-7.45	-7.91	44	2.03	-3.83	63
+  Net Loans & Leases to Assets	82.98	64.27	92	81.30	58.29	95	81.98	64.00	89	76.60	58.91	88	81.32	64.51	91
+  Net Loans & Leases to Deposits	107.67	74.45	96	98.55	66.49	96	106.39	73.79	96	98.44	67.94	95	102.77	75.84	93
+																
+  Capitalization																
+  Leverage Ratio	10.5921	10.33	62	11.2664	9.80	80	10.9831	10.21	71	10.1777	9.81	64	8.8031	9.99	25
+  Total Capital Ratio	13.1982	15.70	26	15.1632	15.97	49	12.8831	15.49	22	14.9166	16.09	43	16.0603	15.84	60
+  Cash Dividends to Net Income	0.00	28.16	40	0.00	27.62	43	0.00	33.90	16	0.00	34.80	14	0.00	35.93	17
+  Non-Curr Lns+OREO to T1 Capital+Allowance	0.34	2.18	24	0.49	2.67	26	0.35	2.19	25	0.53	2.90	23	1.24	4.46	25
+																
+  Growth Rates																
+  Total Assets	23.34	3.36	94	-13.84	8.56	1	17.62	3.95	90	-1.19	12.26	4	32.09	19.34	86
+  Tier 1 Capital	11.18	9.33	69	14.34	9.64	78	11.30	9.42	71	14.12	10.42	76	7.59	8.67	52
+  Net Loans & Leases	25.88	13.63	88	-13.94	2.57	6	25.89	13.01	88	-6.93	3.18	16	39.76	11.70	92
+  Short Term Investments	7.06	-29.63	79	-16.96	1.77	38	-23.89	-38.88	68	37.17	25.50	63	-0.58	109.39	17
+  Short Term Non Core Funding	327.70	106.52	87	-71.24	-0.43	3	58.12	68.57	60	65.70	-2.88	91	-52.27	6.48	7
+																
+Average Total Assets		439,369			371,553			386,425			402,797			363,942
+Net Income		976			659			3,545			4,515			2,166
+						
+Number of banks in Peer Group		1,291			1,317			1,293			1,309			1,274
