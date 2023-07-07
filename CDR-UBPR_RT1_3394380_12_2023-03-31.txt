@@ -1,0 +1,63 @@
+FDIC Certificate # 57974			FRB District/ID_RSSD 12 / 3394380			CALIFORNIA INTERNATIONAL BANK, N.A.			 WESTMINSTER, CA			Summary Ratios
+OCC Charter #  24577			County:  ORANGE			Summary Ratios--Page 1 						07/06/2023 04:56:02 PM
+Public Report
+
+		03/31/2023			03/31/2022			12/31/2022			12/31/2021			12/31/2020
+Earnings and Profitability	BANK	PG 12	PCT	BANK	PG 12	PCT	BANK	PG 12	PCT	BANK	PG 12	PCT	BANK	PG 12	PCT
+  Percent of Average Assets:																
+    Interest Income (TE)	7.75	4.35	97	3.57	3.02	75	4.41	3.54	87	3.68	3.41	60	3.94	3.88	54
+     - Interest Expense	1.17	0.67	88	0.50	0.24	88	0.51	0.32	80	0.57	0.30	89	0.71	0.51	71
+      Net Interest Income (TE)	6.58	3.64	97	3.07	2.77	66	3.91	3.20	84	3.11	3.09	49	3.23	3.34	43
+     + Noninterest Income	0.16	0.39	30	0.54	0.41	73	0.68	0.43	80	0.65	0.59	75	0.22	0.47	33
+     - Noninterest Expense	6.79	2.85	95	3.82	2.63	84	4.88	2.75	94	4.13	2.82	88	5.88	2.86	95
+      Pre-Provision Net Revenue (TE)	-0.05	1.27	5	-0.20	0.66	11	-0.28	1.00	5	-0.37	1.03	7	-2.43	1.11	1
+     - Provision: Loan & Lease Losses	-0.11	0.03	5	0.00	0.01	75	0.00	0.03	57	0.00	0.04	54	-0.13	0.10	1
+     - Provision: Credit Loss Oth Assets	0.11	0.00	97	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A	N/A	0.00	N/A
+      Pretax Operating Income (TE)	-0.05	1.24	5	-0.20	0.68	9	-0.28	0.98	5	-0.37	0.99	7	-2.30	0.98	1
+     + Realized Gains/Losses Sec	0.00	0.00	94	0.00	0.00	95	0.00	0.00	88	0.00	0.00	79	0.00	0.01	68
+     + Unrealized Gains / Losses Equity Sec	0.00	0.00	92	0.00	-0.01	96	0.00	0.00	94	0.00	0.00	89	0.00	0.00	92
+    Pretax Net Operating Income (TE)	-0.05	1.24	5	-0.20	0.68	9	-0.28	0.97	5	-0.37	1.00	7	-2.30	1.01	1
+      Net Operating Income	-0.05	1.07	5	-0.20	0.57	9	-0.28	0.82	5	-0.37	0.85	7	-2.30	0.86	1
+    Net Inc Attrib to Min Ints	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99	0.00	0.00	99
+    Net Income Adjusted Sub S	-0.05	0.98	5	-0.20	0.53	9	-0.28	0.76	5	-0.37	0.79	7	-2.30	0.79	1
+      Net Income	-0.05	1.07	5	-0.20	0.57	9	-0.28	0.82	5	-0.37	0.85	7	-2.30	0.86	1
+																
+  Margin Analysis:																
+  Avg Earning Assets to Avg Assets	100.49	96.40	88	100.25	94.06	96	100.58	94.90	94	100.23	93.41	96	100.41	94.15	97
+  Avg Int-Bearing Funds to Avg Assets	62.83	65.82	37	69.25	64.00	64	66.00	65.42	50	65.64	64.31	48	66.18	66.11	45
+  Int Inc (TE) to Avg Earn Assets	7.71	4.54	97	3.56	3.26	64	4.39	3.78	79	3.67	3.72	47	3.93	4.16	38
+  Int Expense to Avg Earn Assets	1.16	0.69	83	0.50	0.26	87	0.50	0.34	80	0.57	0.32	85	0.71	0.55	66
+  Net Int Inc-TE to Avg Earn Assets	6.55	3.81	97	3.06	2.98	56	3.89	3.42	72	3.10	3.37	37	3.22	3.58	28
+																
+  Loan & Lease Analysis:																
+  Net Loss to Average Total LN&LS	0.00	0.03	72	0.00	0.00	79	0.04	0.02	72	0.00	0.02	60	-0.21	0.05	2
+  Earnings Coverage of Net Losses (X)	N/A	55.97	N/A	N/A	27.28	N/A	-13.73	89.86	6	N/A	62.13	N/A	N/A	77.60	N/A
+  LN&LS Allowance to LN&LS Not HFS	5.84	1.46	97	5.42	1.59	96	5.74	1.45	97	4.81	1.53	96	6.44	1.47	97
+  LN&LS Allowance to Net Losses (X)	N/A	35.01	N/A	N/A	32.94	N/A	160.13	57.58	82	N/A	29.68	N/A	N/A	60.29	N/A
+  LN&LS Allowance to Nonaccrual LN&LS (X)	N/A	9.65	N/A	N/A	6.41	N/A	N/A	14.10	N/A	N/A	6.85	N/A	N/A	5.80	N/A
+  30-89 Days Past Due	0.66	0.85	57	0.00	0.69	19	1.43	0.71	78	0.00	0.53	25	0.00	0.60	18
+  Total LN&LS-90+ Days PD & Nonaccrual	0.00	0.69	26	0.00	0.63	30	0.00	0.65	26	0.00	0.71	28	0.00	0.76	22
+  Non-Curr Lns+OREO to Lns+OREO	0.00	0.75	21	0.00	0.73	28	0.00	0.72	22	0.00	0.80	26	0.00	0.92	19
+																
+  Liquidity																
+  Net Non Core Fund Dep New $250M	-28.40	-7.21	14	-49.19	-24.22	17	-7.04	-8.41	44	-50.54	-26.65	19	-67.81	-17.99	8
+  Net Loans & Leases to Assets	60.12	54.59	56	52.43	47.63	56	71.35	54.20	78	54.03	48.91	60	45.44	54.67	31
+  Net Loans & Leases to Deposits	73.83	63.53	68	61.53	55.00	57	91.20	63.06	80	62.47	57.25	59	60.86	64.58	46
+																
+  Capitalization																
+  Leverage Ratio	20.0299	12.41	89	13.2067	11.90	71	19.7984	12.36	91	13.8054	12.17	72	15.8693	11.51	83
+  Total Capital Ratio	49.1464	20.97	91	49.0074	23.83	88	47.7825	21.20	91	46.5931	24.85	86	51.7501	22.01	90
+  Cash Dividends to Net Income	0.00	30.85	59	0.00	42.21	56	0.00	34.58	25	0.00	33.85	32	0.00	40.31	22
+  Non-Curr Lns+OREO to T1 Capital+Allowance	0.00	3.06	23	0.00	2.89	30	0.00	2.97	24	0.00	3.09	28	0.00	4.10	20
+																
+  Growth Rates																
+  Total Assets	-21.61	-0.74	4	1.05	5.09	34	-38.56	0.13	0	14.27	9.15	71	83.27	13.66	99
+  Tier 1 Capital	-1.31	5.01	11	-0.71	5.60	12	-1.63	4.61	8	-2.97	7.49	5	-10.59	4.34	1
+  Net Loans & Leases	-10.11	10.99	3	-15.12	-3.33	22	-18.85	9.37	3	35.87	-1.22	96	16.75	4.20	82
+  Short Term Investments	-37.63	-26.59	41	30.66	3.82	73	-68.40	-29.28	17	-3.92	15.20	37	347.88	55.57	95
+  Short Term Non Core Funding	-24.39	69.10	19	6.91	-2.69	70	-35.24	36.30	26	-14.71	-3.18	42	137.00	15.69	90
+																
+Average Total Assets		56,183			86,352			73,008			84,053			60,744
+Net Income		-7			-44			-207			-312			-1,396
+						
+Number of banks in Peer Group		117			124			116			127			152
